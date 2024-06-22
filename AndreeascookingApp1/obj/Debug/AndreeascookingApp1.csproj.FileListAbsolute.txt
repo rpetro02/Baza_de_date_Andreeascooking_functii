@@ -1,0 +1,14 @@
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\AndreeascookingApp1.exe.config
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\AndreeascookingApp1.exe
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\AndreeascookingApp1.pdb
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\MySql.Data.dll
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\System.Memory.dll
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\System.Buffers.dll
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\bin\Debug\MySql.Data.xml
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\obj\Debug\AndreeascookingApp1.csproj.AssemblyReference.cache
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\obj\Debug\AndreeascookingApp1.csproj.CoreCompileInputs.cache
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\obj\Debug\Andreeas.8146DFA7.Up2Date
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\obj\Debug\AndreeascookingApp1.exe
+C:\Programare avansata an 2 semestrul 1\AndreeascookingApp1\AndreeascookingApp1\obj\Debug\AndreeascookingApp1.pdb
