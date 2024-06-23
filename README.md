@@ -1,8 +1,8 @@
-# Andreea's Cooking App
+# Andreea's Cooking App ( Program.cs )
 
 ## Descriere
 
-Această aplicație console gestionează rețetele de aperitive pentru "Andrea's Cooking". Oferă funcționalități pentru vizualizarea, adăugarea, modificarea și ștergerea aperitivelor din baza de date MySQL.
+Această aplicație console gestionează rețetele de aperitive pentru "Andrea's Cooking". Oferă funcționalități pentru vizualizarea, adăugarea, modificarea și ștergerea aperitivelor din baza de date phpMyAdmin. Este facut in C#.
 
 ## Structura Codului `Program.cs`
 
