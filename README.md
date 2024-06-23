@@ -2,7 +2,7 @@
 
 ## Descriere
 
-Această aplicație console gestionează rețetele de aperitive pentru "Andrea's Cooking". Oferă funcționalități pentru vizualizarea, adăugarea, modificarea și ștergerea aperitivelor din baza de date phpMyAdmin. Este facut in C#.
+Această aplicație console gestionează rețetele de aperitive pentru "Andrea's Cooking". Oferă funcționalități pentru vizualizarea, adăugarea, modificarea și ștergerea aperitivelor din baza de date phpMyAdmin.
 
 ## Structura Codului `Program.cs`
 
